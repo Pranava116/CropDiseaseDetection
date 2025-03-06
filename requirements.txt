@@ -1,4 +1,7 @@
-streamlit
 tensorflow
+scikit-learn
 numpy
-time
+matplotlib
+seaborn
+pandas
+streamlit
