@@ -33,7 +33,12 @@ if(app_mode=="Home"):
     Click on the **Disease Recognition** page in the sidebar to upload an image and experience the power of our Plant Disease Recognition System!
 
     ## About Us
-    Learn more about the project, our team, and our goals on the **About** page.
+     Team Name:  **Ai-lluminati**\n\n
+    Team Members:\n\n
+        1. Pranava G Rao
+        2. Prabhudev Chinivalar
+        3. Pramath K S
+        4. Pratham P
     """)
 
 
